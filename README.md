@@ -5,6 +5,9 @@ This script uses Python's built-in email module to construct a multipart email m
 Key features:
 
 -Supports plain text body.
+
 -Handles multiple file attachments (e.g., PDFs, images).
+
 -Checks for attachment file existence and prints warnings if files are missing.
+
 -Runs entirely offline.
